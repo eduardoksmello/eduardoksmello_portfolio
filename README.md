@@ -1,6 +1,4 @@
-# eduardoksmello_portfolio
-*DATA SCIENTIST PORTFOLIO*
-
+![image](https://github.com/eduardoksmello/eduardoksmello_portfolio/blob/main/portfolio_banner_readme.jpg)
 
 # Project 1: Heart Disease Prediction
 

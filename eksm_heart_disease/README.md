@@ -1,5 +1,5 @@
 ## Code
-[eksm_heart_disease_classifier.py]()
+[eksm_heart_disease_classifier.py](https://github.com/eduardoksmello/eduardoksmello_portfolio/blob/main/eksm_heart_disease/eksm_heart_disease_classifier.ipynb)
 
 ## Objective
 This project aimed the creation of a data-based system to predict heart disease using previously collected medical data.

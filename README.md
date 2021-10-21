@@ -1,6 +1,6 @@
 ![image](https://github.com/eduardoksmello/eduardoksmello_portfolio/blob/main/portfolio_banner_readme.jpg)
 
-[Project 1: Heart Disease Prediction](https://github.com/eduardoksmello/eduardoksmello_portfolio/tree/main/eksm_heart_disease)
+# [Project 1: Heart Disease Prediction](https://github.com/eduardoksmello/eduardoksmello_portfolio/tree/main/eksm_heart_disease)
 
 ## Objective
 This project aimed the creation of a data-based system to predict heart disease using previously collected medical data.

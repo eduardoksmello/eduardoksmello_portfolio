@@ -4,8 +4,6 @@
 
 ## Objective
 This project aimed the creation of a data-based system to predict heart disease using previously collected medical data.
-## Dataset
-Avaiable at: https://www.kaggle.com/sid321axn/heart-statlog-cleveland-hungary-final
 ## Overview
 - Writen in Python
 - Exploratory data analysis

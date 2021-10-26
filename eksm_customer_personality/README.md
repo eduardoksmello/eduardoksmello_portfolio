@@ -1,5 +1,5 @@
 ## Code
-[eksm_customer_personality_analysis.py](https://github.com/eduardoksmello/eduardoksmello_portfolio/blob/main/eksm_heart_disease/eksm_heart_disease_classifier.ipynb)
+[eksm_customer_personality_analysis.py](https://github.com/eduardoksmello/eduardoksmello_portfolio/blob/main/eksm_customer_personality/eksm_customer_personality_analysis_clustering.ipynb)
 
 ## Objective
 This project aimed to create a data-based system to group a company's customers using their personal and consumption attributes.

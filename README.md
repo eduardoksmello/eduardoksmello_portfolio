@@ -12,7 +12,7 @@ This project aimed the creation of a data-based system to predict heart disease 
 - Parameter tuning and retrain
 - Final predictions and metrics
 
-# [Project 2: Customer Personality Analysis](https://github.com/eduardoksmello/eduardoksmello_portfolio/tree/main/eksm_heart_disease)
+# [Project 2: Customer Personality Analysis](https://github.com/eduardoksmello/eduardoksmello_portfolio/tree/main/eksm_customer_personality)
 
 ## Objective
 This project aimed to create a data-based system to group a company's customers using their personal and consumption attributes.

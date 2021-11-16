@@ -23,3 +23,17 @@ This project aimed to create a data-based system to group a company's customers 
 - Clustering models train and evaluation
 - Metrics report
 - Business strategy proposal
+
+# [Project 3: House price prediction](https://github.com/eduardoksmello/regression_curitiba_houses)
+## Objective
+This project aimed the creation of a data-based system to predict house prices using data scrapped from a real estate website.
+## Overview
+- Language: Portuguese
+- Writen in Python
+- Web scraping
+- Exploratory data analysis
+- Data pre-processing
+- Linear regression model train and evaluation
+- Final predictions and metrics
+- Metrics report
+- Business strategy proposal

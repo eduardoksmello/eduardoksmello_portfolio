@@ -39,7 +39,9 @@ This project aimed the creation of a data-based system to predict house prices u
 - Business strategy proposal
 
 # [Project 4: Petshop Sales Dashboard](https://github.com/eduardoksmello/dashboard_petshop_alura)
-
+## Objective
+Creation of a dashboard to analyze the sales of a fictitious petshop.
+## Overview
 * Dashbord
 * ETL (Extract, Transform, and Data Load)
 * Power Bi

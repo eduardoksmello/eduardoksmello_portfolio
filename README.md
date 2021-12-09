@@ -38,9 +38,9 @@ This project aimed the creation of a data-based system to predict house prices u
 - Metrics report
 - Business strategy proposal
 
-# [Project 4: Petshop Sales Dashboard](https://github.com/eduardoksmello/dashboard_petshop_alura)
+# [Project 4: Spotify Music Popularity Dashboard](https://github.com/eduardoksmello/dashboard_spotify)
 ## Objective
-Creation of a dashboard to analyze the sales of a fictitious petshop.
+This project aimed the creation of a dashboard to analyze music features and popularity.
 ## Overview
 * Dashbord
 * ETL (Extract, Transform, and Data Load)

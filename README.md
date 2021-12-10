@@ -46,3 +46,11 @@ This project aimed the creation of a dashboard to analyze music features and pop
 * ETL (Extract, Transform, and Data Load)
 * Power Bi
 * Data Visualization
+
+# [Project 5: Brazilian Portuguese Spell Checker](https://github.com/eduardoksmello/spell_checker_NLP)
+## Objective
+Creation of a solution using NLP in Python to correct misspelled words.
+## Overview
+* Language: Portuguese
+* Data Processing (Tokenization in NLP)
+* Implementation
